@@ -1,8 +1,6 @@
 ---
-layout: post
 title:  "Some changes."
-date:   2023-03-11 13:11:11 -0500
-categories: blogging
+tags: blogging
 ---
 
 Hey all,
